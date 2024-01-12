@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: Pacotes-de-Imagens-com-Python
+Version: 0.0.1
+Summary: Esse pacote oferece recurso para criar um pacote, ou criar uma distribuição binária ou distribuição de código fonte
+Home-page: https://github.com/Csantos05/image-processing-package.git
+Author: cleison
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
